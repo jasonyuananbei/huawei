@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/CN/BTSW/!svn/ver/19641/trunk/android/Document/TV/%E9%A1%B9%E7%9B%AE%E8%B5%84%E6%96%99/%E5%8D%8E%E4%B8%BAM330(Hi3716+Android4.4)/power_on/bluedroid/stack/avrc
+END
+avrc_sdp.c
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/CN/BTSW/!svn/ver/19641/trunk/android/Document/TV/%E9%A1%B9%E7%9B%AE%E8%B5%84%E6%96%99/%E5%8D%8E%E4%B8%BAM330(Hi3716+Android4.4)/power_on/bluedroid/stack/avrc/avrc_sdp.c
+END
+avrc_bld_ct.c
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/CN/BTSW/!svn/ver/19641/trunk/android/Document/TV/%E9%A1%B9%E7%9B%AE%E8%B5%84%E6%96%99/%E5%8D%8E%E4%B8%BAM330(Hi3716+Android4.4)/power_on/bluedroid/stack/avrc/avrc_bld_ct.c
+END
+avrc_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/CN/BTSW/!svn/ver/19641/trunk/android/Document/TV/%E9%A1%B9%E7%9B%AE%E8%B5%84%E6%96%99/%E5%8D%8E%E4%B8%BAM330(Hi3716+Android4.4)/power_on/bluedroid/stack/avrc/avrc_api.c
+END
+avrc_bld_tg.c
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/CN/BTSW/!svn/ver/19641/trunk/android/Document/TV/%E9%A1%B9%E7%9B%AE%E8%B5%84%E6%96%99/%E5%8D%8E%E4%B8%BAM330(Hi3716+Android4.4)/power_on/bluedroid/stack/avrc/avrc_bld_tg.c
+END
+avrc_pars_ct.c
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/CN/BTSW/!svn/ver/19641/trunk/android/Document/TV/%E9%A1%B9%E7%9B%AE%E8%B5%84%E6%96%99/%E5%8D%8E%E4%B8%BAM330(Hi3716+Android4.4)/power_on/bluedroid/stack/avrc/avrc_pars_ct.c
+END
+avrc_int.h
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/CN/BTSW/!svn/ver/19641/trunk/android/Document/TV/%E9%A1%B9%E7%9B%AE%E8%B5%84%E6%96%99/%E5%8D%8E%E4%B8%BAM330(Hi3716+Android4.4)/power_on/bluedroid/stack/avrc/avrc_int.h
+END
+avrc_pars_tg.c
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/CN/BTSW/!svn/ver/19641/trunk/android/Document/TV/%E9%A1%B9%E7%9B%AE%E8%B5%84%E6%96%99/%E5%8D%8E%E4%B8%BAM330(Hi3716+Android4.4)/power_on/bluedroid/stack/avrc/avrc_pars_tg.c
+END
+avrc_utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/CN/BTSW/!svn/ver/19641/trunk/android/Document/TV/%E9%A1%B9%E7%9B%AE%E8%B5%84%E6%96%99/%E5%8D%8E%E4%B8%BAM330(Hi3716+Android4.4)/power_on/bluedroid/stack/avrc/avrc_utils.c
+END
+avrc_opt.c
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/CN/BTSW/!svn/ver/19641/trunk/android/Document/TV/%E9%A1%B9%E7%9B%AE%E8%B5%84%E6%96%99/%E5%8D%8E%E4%B8%BAM330(Hi3716+Android4.4)/power_on/bluedroid/stack/avrc/avrc_opt.c
+END

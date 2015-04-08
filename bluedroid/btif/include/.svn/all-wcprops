@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/CN/BTSW/!svn/ver/19641/trunk/android/Document/TV/%E9%A1%B9%E7%9B%AE%E8%B5%84%E6%96%99/%E5%8D%8E%E4%B8%BAM330(Hi3716+Android4.4)/power_on/bluedroid/btif/include
+END
+btif_sock_thread.h
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/CN/BTSW/!svn/ver/19641/trunk/android/Document/TV/%E9%A1%B9%E7%9B%AE%E8%B5%84%E6%96%99/%E5%8D%8E%E4%B8%BAM330(Hi3716+Android4.4)/power_on/bluedroid/btif/include/btif_sock_thread.h
+END
+btif_av_co.h
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/CN/BTSW/!svn/ver/19641/trunk/android/Document/TV/%E9%A1%B9%E7%9B%AE%E8%B5%84%E6%96%99/%E5%8D%8E%E4%B8%BAM330(Hi3716+Android4.4)/power_on/bluedroid/btif/include/btif_av_co.h
+END
+btif_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/CN/BTSW/!svn/ver/19641/trunk/android/Document/TV/%E9%A1%B9%E7%9B%AE%E8%B5%84%E6%96%99/%E5%8D%8E%E4%B8%BAM330(Hi3716+Android4.4)/power_on/bluedroid/btif/include/btif_common.h
+END
+btif_sock_rfc.h
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/CN/BTSW/!svn/ver/19641/trunk/android/Document/TV/%E9%A1%B9%E7%9B%AE%E8%B5%84%E6%96%99/%E5%8D%8E%E4%B8%BAM330(Hi3716+Android4.4)/power_on/bluedroid/btif/include/btif_sock_rfc.h
+END
+btif_gatt_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/CN/BTSW/!svn/ver/19641/trunk/android/Document/TV/%E9%A1%B9%E7%9B%AE%E8%B5%84%E6%96%99/%E5%8D%8E%E4%B8%BAM330(Hi3716+Android4.4)/power_on/bluedroid/btif/include/btif_gatt_util.h
+END
+btif_sock_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/CN/BTSW/!svn/ver/19641/trunk/android/Document/TV/%E9%A1%B9%E7%9B%AE%E8%B5%84%E6%96%99/%E5%8D%8E%E4%B8%BAM330(Hi3716+Android4.4)/power_on/bluedroid/btif/include/btif_sock_util.h
+END
+btif_hh.h
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/CN/BTSW/!svn/ver/19641/trunk/android/Document/TV/%E9%A1%B9%E7%9B%AE%E8%B5%84%E6%96%99/%E5%8D%8E%E4%B8%BAM330(Hi3716+Android4.4)/power_on/bluedroid/btif/include/btif_hh.h
+END
+btif_gatt.h
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/CN/BTSW/!svn/ver/19641/trunk/android/Document/TV/%E9%A1%B9%E7%9B%AE%E8%B5%84%E6%96%99/%E5%8D%8E%E4%B8%BAM330(Hi3716+Android4.4)/power_on/bluedroid/btif/include/btif_gatt.h
+END
+btif_av_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/CN/BTSW/!svn/ver/19641/trunk/android/Document/TV/%E9%A1%B9%E7%9B%AE%E8%B5%84%E6%96%99/%E5%8D%8E%E4%B8%BAM330(Hi3716+Android4.4)/power_on/bluedroid/btif/include/btif_av_api.h
+END
+btif_sock.h
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/CN/BTSW/!svn/ver/19641/trunk/android/Document/TV/%E9%A1%B9%E7%9B%AE%E8%B5%84%E6%96%99/%E5%8D%8E%E4%B8%BAM330(Hi3716+Android4.4)/power_on/bluedroid/btif/include/btif_sock.h
+END
+btif_dm.h
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/CN/BTSW/!svn/ver/19641/trunk/android/Document/TV/%E9%A1%B9%E7%9B%AE%E8%B5%84%E6%96%99/%E5%8D%8E%E4%B8%BAM330(Hi3716+Android4.4)/power_on/bluedroid/btif/include/btif_dm.h
+END
+btif_config_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/CN/BTSW/!svn/ver/19641/trunk/android/Document/TV/%E9%A1%B9%E7%9B%AE%E8%B5%84%E6%96%99/%E5%8D%8E%E4%B8%BAM330(Hi3716+Android4.4)/power_on/bluedroid/btif/include/btif_config_util.h
+END
+btif_hl.h
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/CN/BTSW/!svn/ver/19641/trunk/android/Document/TV/%E9%A1%B9%E7%9B%AE%E8%B5%84%E6%96%99/%E5%8D%8E%E4%B8%BAM330(Hi3716+Android4.4)/power_on/bluedroid/btif/include/btif_hl.h
+END
+btif_profile_queue.h
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/CN/BTSW/!svn/ver/19641/trunk/android/Document/TV/%E9%A1%B9%E7%9B%AE%E8%B5%84%E6%96%99/%E5%8D%8E%E4%B8%BAM330(Hi3716+Android4.4)/power_on/bluedroid/btif/include/btif_profile_queue.h
+END
+btif_storage.h
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/CN/BTSW/!svn/ver/19641/trunk/android/Document/TV/%E9%A1%B9%E7%9B%AE%E8%B5%84%E6%96%99/%E5%8D%8E%E4%B8%BAM330(Hi3716+Android4.4)/power_on/bluedroid/btif/include/btif_storage.h
+END
+btif_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/CN/BTSW/!svn/ver/19641/trunk/android/Document/TV/%E9%A1%B9%E7%9B%AE%E8%B5%84%E6%96%99/%E5%8D%8E%E4%B8%BAM330(Hi3716+Android4.4)/power_on/bluedroid/btif/include/btif_config.h
+END
+btif_sock_sdp.h
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/CN/BTSW/!svn/ver/19641/trunk/android/Document/TV/%E9%A1%B9%E7%9B%AE%E8%B5%84%E6%96%99/%E5%8D%8E%E4%B8%BAM330(Hi3716+Android4.4)/power_on/bluedroid/btif/include/btif_sock_sdp.h
+END
+btif_av.h
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/CN/BTSW/!svn/ver/19641/trunk/android/Document/TV/%E9%A1%B9%E7%9B%AE%E8%B5%84%E6%96%99/%E5%8D%8E%E4%B8%BAM330(Hi3716+Android4.4)/power_on/bluedroid/btif/include/btif_av.h
+END
+btif_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/CN/BTSW/!svn/ver/19641/trunk/android/Document/TV/%E9%A1%B9%E7%9B%AE%E8%B5%84%E6%96%99/%E5%8D%8E%E4%B8%BAM330(Hi3716+Android4.4)/power_on/bluedroid/btif/include/btif_api.h
+END
+btif_pan_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/CN/BTSW/!svn/ver/19641/trunk/android/Document/TV/%E9%A1%B9%E7%9B%AE%E8%B5%84%E6%96%99/%E5%8D%8E%E4%B8%BAM330(Hi3716+Android4.4)/power_on/bluedroid/btif/include/btif_pan_internal.h
+END
+btif_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/CN/BTSW/!svn/ver/19641/trunk/android/Document/TV/%E9%A1%B9%E7%9B%AE%E8%B5%84%E6%96%99/%E5%8D%8E%E4%B8%BAM330(Hi3716+Android4.4)/power_on/bluedroid/btif/include/btif_util.h
+END
+btif_pan.h
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/CN/BTSW/!svn/ver/19641/trunk/android/Document/TV/%E9%A1%B9%E7%9B%AE%E8%B5%84%E6%96%99/%E5%8D%8E%E4%B8%BAM330(Hi3716+Android4.4)/power_on/bluedroid/btif/include/btif_pan.h
+END
+btif_media.h
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/CN/BTSW/!svn/ver/19641/trunk/android/Document/TV/%E9%A1%B9%E7%9B%AE%E8%B5%84%E6%96%99/%E5%8D%8E%E4%B8%BAM330(Hi3716+Android4.4)/power_on/bluedroid/btif/include/btif_media.h
+END
+btif_sm.h
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/CN/BTSW/!svn/ver/19641/trunk/android/Document/TV/%E9%A1%B9%E7%9B%AE%E8%B5%84%E6%96%99/%E5%8D%8E%E4%B8%BAM330(Hi3716+Android4.4)/power_on/bluedroid/btif/include/btif_sm.h
+END
+uinput.h
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/CN/BTSW/!svn/ver/19641/trunk/android/Document/TV/%E9%A1%B9%E7%9B%AE%E8%B5%84%E6%96%99/%E5%8D%8E%E4%B8%BAM330(Hi3716+Android4.4)/power_on/bluedroid/btif/include/uinput.h
+END

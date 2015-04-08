@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/CN/BTSW/!svn/ver/19641/trunk/android/Document/TV/%E9%A1%B9%E7%9B%AE%E8%B5%84%E6%96%99/%E5%8D%8E%E4%B8%BAM330(Hi3716+Android4.4)/power_on/bluedroid/gki/common
+END
+gki_inet.h
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/CN/BTSW/!svn/ver/19641/trunk/android/Document/TV/%E9%A1%B9%E7%9B%AE%E8%B5%84%E6%96%99/%E5%8D%8E%E4%B8%BAM330(Hi3716+Android4.4)/power_on/bluedroid/gki/common/gki_inet.h
+END
+gki.h
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/CN/BTSW/!svn/ver/19641/trunk/android/Document/TV/%E9%A1%B9%E7%9B%AE%E8%B5%84%E6%96%99/%E5%8D%8E%E4%B8%BAM330(Hi3716+Android4.4)/power_on/bluedroid/gki/common/gki.h
+END
+gki_debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/CN/BTSW/!svn/ver/19641/trunk/android/Document/TV/%E9%A1%B9%E7%9B%AE%E8%B5%84%E6%96%99/%E5%8D%8E%E4%B8%BAM330(Hi3716+Android4.4)/power_on/bluedroid/gki/common/gki_debug.c
+END
+gki_buffer.c
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/CN/BTSW/!svn/ver/19641/trunk/android/Document/TV/%E9%A1%B9%E7%9B%AE%E8%B5%84%E6%96%99/%E5%8D%8E%E4%B8%BAM330(Hi3716+Android4.4)/power_on/bluedroid/gki/common/gki_buffer.c
+END
+gki_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/CN/BTSW/!svn/ver/19641/trunk/android/Document/TV/%E9%A1%B9%E7%9B%AE%E8%B5%84%E6%96%99/%E5%8D%8E%E4%B8%BAM330(Hi3716+Android4.4)/power_on/bluedroid/gki/common/gki_common.h
+END
+gki_time.c
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/CN/BTSW/!svn/ver/19641/trunk/android/Document/TV/%E9%A1%B9%E7%9B%AE%E8%B5%84%E6%96%99/%E5%8D%8E%E4%B8%BAM330(Hi3716+Android4.4)/power_on/bluedroid/gki/common/gki_time.c
+END

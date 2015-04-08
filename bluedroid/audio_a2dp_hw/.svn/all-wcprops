@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/CN/BTSW/!svn/ver/19641/trunk/android/Document/TV/%E9%A1%B9%E7%9B%AE%E8%B5%84%E6%96%99/%E5%8D%8E%E4%B8%BAM330(Hi3716+Android4.4)/power_on/bluedroid/audio_a2dp_hw
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/CN/BTSW/!svn/ver/19641/trunk/android/Document/TV/%E9%A1%B9%E7%9B%AE%E8%B5%84%E6%96%99/%E5%8D%8E%E4%B8%BAM330(Hi3716+Android4.4)/power_on/bluedroid/audio_a2dp_hw/Android.mk
+END
+audio_a2dp_hw.c
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/CN/BTSW/!svn/ver/19641/trunk/android/Document/TV/%E9%A1%B9%E7%9B%AE%E8%B5%84%E6%96%99/%E5%8D%8E%E4%B8%BAM330(Hi3716+Android4.4)/power_on/bluedroid/audio_a2dp_hw/audio_a2dp_hw.c
+END
+audio_a2dp_hw.h
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/CN/BTSW/!svn/ver/19641/trunk/android/Document/TV/%E9%A1%B9%E7%9B%AE%E8%B5%84%E6%96%99/%E5%8D%8E%E4%B8%BAM330(Hi3716+Android4.4)/power_on/bluedroid/audio_a2dp_hw/audio_a2dp_hw.h
+END

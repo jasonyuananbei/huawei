@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/CN/BTSW/!svn/ver/19641/trunk/android/Document/TV/%E9%A1%B9%E7%9B%AE%E8%B5%84%E6%96%99/%E5%8D%8E%E4%B8%BAM330(Hi3716+Android4.4)/power_on/bluedroid/bta/hl
+END
+bta_hl_sdp.c
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/CN/BTSW/!svn/ver/19641/trunk/android/Document/TV/%E9%A1%B9%E7%9B%AE%E8%B5%84%E6%96%99/%E5%8D%8E%E4%B8%BAM330(Hi3716+Android4.4)/power_on/bluedroid/bta/hl/bta_hl_sdp.c
+END
+bta_hl_act.c
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/CN/BTSW/!svn/ver/19641/trunk/android/Document/TV/%E9%A1%B9%E7%9B%AE%E8%B5%84%E6%96%99/%E5%8D%8E%E4%B8%BAM330(Hi3716+Android4.4)/power_on/bluedroid/bta/hl/bta_hl_act.c
+END
+bta_hl_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/CN/BTSW/!svn/ver/19641/trunk/android/Document/TV/%E9%A1%B9%E7%9B%AE%E8%B5%84%E6%96%99/%E5%8D%8E%E4%B8%BAM330(Hi3716+Android4.4)/power_on/bluedroid/bta/hl/bta_hl_api.c
+END
+bta_hl_ci.c
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/CN/BTSW/!svn/ver/19641/trunk/android/Document/TV/%E9%A1%B9%E7%9B%AE%E8%B5%84%E6%96%99/%E5%8D%8E%E4%B8%BAM330(Hi3716+Android4.4)/power_on/bluedroid/bta/hl/bta_hl_ci.c
+END
+bta_hl_int.h
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/CN/BTSW/!svn/ver/19641/trunk/android/Document/TV/%E9%A1%B9%E7%9B%AE%E8%B5%84%E6%96%99/%E5%8D%8E%E4%B8%BAM330(Hi3716+Android4.4)/power_on/bluedroid/bta/hl/bta_hl_int.h
+END
+bta_hl_utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/CN/BTSW/!svn/ver/19641/trunk/android/Document/TV/%E9%A1%B9%E7%9B%AE%E8%B5%84%E6%96%99/%E5%8D%8E%E4%B8%BAM330(Hi3716+Android4.4)/power_on/bluedroid/bta/hl/bta_hl_utils.c
+END
+bta_hl_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/CN/BTSW/!svn/ver/19641/trunk/android/Document/TV/%E9%A1%B9%E7%9B%AE%E8%B5%84%E6%96%99/%E5%8D%8E%E4%B8%BAM330(Hi3716+Android4.4)/power_on/bluedroid/bta/hl/bta_hl_main.c
+END

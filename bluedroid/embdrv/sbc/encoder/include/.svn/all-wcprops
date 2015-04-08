@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/CN/BTSW/!svn/ver/19641/trunk/android/Document/TV/%E9%A1%B9%E7%9B%AE%E8%B5%84%E6%96%99/%E5%8D%8E%E4%B8%BAM330(Hi3716+Android4.4)/power_on/bluedroid/embdrv/sbc/encoder/include
+END
+sbc_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/CN/BTSW/!svn/ver/19641/trunk/android/Document/TV/%E9%A1%B9%E7%9B%AE%E8%B5%84%E6%96%99/%E5%8D%8E%E4%B8%BAM330(Hi3716+Android4.4)/power_on/bluedroid/embdrv/sbc/encoder/include/sbc_types.h
+END
+sbc_dct.h
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/CN/BTSW/!svn/ver/19641/trunk/android/Document/TV/%E9%A1%B9%E7%9B%AE%E8%B5%84%E6%96%99/%E5%8D%8E%E4%B8%BAM330(Hi3716+Android4.4)/power_on/bluedroid/embdrv/sbc/encoder/include/sbc_dct.h
+END
+sbc_if.h
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/CN/BTSW/!svn/ver/19641/trunk/android/Document/TV/%E9%A1%B9%E7%9B%AE%E8%B5%84%E6%96%99/%E5%8D%8E%E4%B8%BAM330(Hi3716+Android4.4)/power_on/bluedroid/embdrv/sbc/encoder/include/sbc_if.h
+END
+sbc_enc_func_declare.h
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/svn/CN/BTSW/!svn/ver/19641/trunk/android/Document/TV/%E9%A1%B9%E7%9B%AE%E8%B5%84%E6%96%99/%E5%8D%8E%E4%B8%BAM330(Hi3716+Android4.4)/power_on/bluedroid/embdrv/sbc/encoder/include/sbc_enc_func_declare.h
+END
+sbc_encoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/CN/BTSW/!svn/ver/19641/trunk/android/Document/TV/%E9%A1%B9%E7%9B%AE%E8%B5%84%E6%96%99/%E5%8D%8E%E4%B8%BAM330(Hi3716+Android4.4)/power_on/bluedroid/embdrv/sbc/encoder/include/sbc_encoder.h
+END
